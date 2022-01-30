@@ -1,0 +1,43 @@
+.main-name {
+	color: darkred;
+}
+
+div h3 {
+	color: red;
+}
+
+a {
+	color: deepskyblue;
+}
+
+.info-text span {
+	color: blue;
+}
+
+.info-text > p {
+	color: #e60d0d;
+}
+
+ol > li {
+	color: #0004ff;
+}
+
+ol > p {
+	color: darkgreen;
+}
+
+.laziness * p {
+	color: gold;
+}
+
+.navigation,
+.laziness {
+	color: lightseagreen;
+}
+
+.glass__text + p {
+	color: lime;
+}
+#God {
+	color: #fa0808;
+}
