@@ -22,10 +22,6 @@ ol > li {
 	color: #0004ff;
 }
 
-ol > p {
-	color: darkgreen;
-}
-
 .laziness * p {
 	color: gold;
 }
@@ -40,4 +36,12 @@ ol > p {
 }
 #God {
 	color: #fa0808;
+}
+
+[title="Имя"] {
+	color: red;
+}
+
+.section > li > ol > li {
+	color: blueviolet;
 }
